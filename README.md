@@ -3,7 +3,9 @@
 >Note: node should be pre installed in the system
 >if don't have, then you can download and install it from https://nodejs.org
 
-after pulling the code
+---
+
+After pulling the code
 steps to run the application, follow the command below:
 * Installing dependencies
 ```
@@ -17,3 +19,9 @@ steps to run the application, follow the command below:
 ```
 	npm run build
 ```
+
+---
+
+>before this backend setup or api should be configured
+>https://github.com/TestRapid/psmgr_backend
+
